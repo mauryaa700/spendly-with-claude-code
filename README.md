@@ -1,0 +1,1 @@
+# spendly-with-claude-code
